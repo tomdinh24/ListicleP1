@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/NkDgmto' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/NkDgmto' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
