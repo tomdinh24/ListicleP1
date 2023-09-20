@@ -37,7 +37,7 @@ https://imgur.com/a/NkDgmto
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
-Currently, I am unable to get the 404.html page to work. 
+
 
 ## License
 
