@@ -1,10 +1,10 @@
-# WEB103 Project 2 - *Name of App Here*
+# WEB103 Project 2 - ListicleP2
 
-Submitted by: **Your name here**
+Submitted by: Tom Lam
 
-About this web app: **App description here**
+About this web app: Display background information of the Akatsuki from Naruto the anime and host the data on Railway via PostgresDB
 
-Time spent: **X** hours
+Time spent: 5 hours
 
 ## Required Features
 
